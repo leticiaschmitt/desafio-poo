@@ -1,4 +1,4 @@
-<h1> Desafio POO DIO - by @cami-la</h1>
+<h1> Desafio POO DIO - by [cami-la](https://github.com/cami-la)</h1>
 
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
